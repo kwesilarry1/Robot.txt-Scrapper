@@ -7,7 +7,7 @@ def print_banner():
     banner = """
 \033[1;32m=====================================================
    ROBOTS.TXT SCRAPER TOOL
-   Author: KwesiLArry
+   Author: KwesiLarry
    Contact: kwesixwizard@proton.me
    Description: Fetch and analyze robots.txt files.
 =====================================================
